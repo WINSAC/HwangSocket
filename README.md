@@ -1,4 +1,7 @@
-# HwangSocket
+# Android TCP socket connection with edge server
+This tool allows android devices to transmit local saved images to an edge server through a wireless TCP socket connection.
+Please use the file "SocketImageClient.java" for the image transmission.
+Change the SERVERPORT and SERVER_IP to match with your own server.
 
 # Citation
 `If you use the code in your work please cite our papers!`
